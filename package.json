@@ -1,0 +1,16 @@
+{
+  "name": "backend-major",
+  "version": "1.0.0",
+  "description": "a major backend project to understand the complexity of the project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "project"
+  ],
+  "author": "Neeraj Soni",
+  "license": "ISC"
+}
